@@ -450,7 +450,7 @@
   "leetcode.hint.commandShortcut": false,
   "leetcode.hint.commentDescription": false,
   "[cpp]": {
-    "editor.defaultFormatter": "xaver.clang-format"
+    "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
   },
   "window.commandCenter": true,
   "hexeditor.columnWidth": 16,

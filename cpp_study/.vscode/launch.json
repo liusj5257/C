@@ -27,6 +27,7 @@
       "cwd": "${fileDirname}",
       "stopOnEntry": true,
       "relativePathBase": "${workspaceFolder}/BIN/",
+      "console": "externalTerminal",
       // "sourceMap": {
       //   "/": "c:\\"
       // }
